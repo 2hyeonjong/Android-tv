@@ -29,5 +29,8 @@
     <string name="hello_world">Hello world!</string>
     <string name="columns">1</string>
     <string name="title_activity_leanback">LeanbackActivity</string>
+    <string name="action_play">PLAY</string>
+    <string name="action_watch_later">WATCH LATER</string>
+    <string name="rating" >4</string>
 
 </resources>
